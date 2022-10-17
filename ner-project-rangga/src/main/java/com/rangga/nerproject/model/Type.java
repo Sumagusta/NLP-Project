@@ -5,7 +5,7 @@ public enum Type {
 	PERSON("Person"),
 	CITY("City"),
 	STATE_OR_PROVINCE("State_Or_Province"),
-	COUNTRY("Province"),
+	COUNTRY("Country"),
 	EMAIL("Email"),
 	TITLE("Title");
 	
